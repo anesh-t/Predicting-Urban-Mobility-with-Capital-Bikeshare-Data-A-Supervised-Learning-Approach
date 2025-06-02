@@ -55,6 +55,16 @@ The primary objective is to explore and model bike-sharing usage patterns throug
 - ✔️ Visual analysis of how regularization influences model simplicity
 
 ---
+---
 
-## 📂 File Structure
+## ✅ Conclusion
 
+This project showcases a complete **supervised machine learning workflow**, encompassing:
+- Data preprocessing  
+- Regression and classification modeling  
+- Hyperparameter tuning  
+- Model evaluation  
+
+Using real-world data, it demonstrates practical skills in **Python**, **Scikit-learn**, and **data science best practices**. The insights derived can inform urban mobility strategies and support data-driven decision-making for bikeshare operations.
+
+---
